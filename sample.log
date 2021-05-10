@@ -1,0 +1,172 @@
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<periodic() done, defined at app.py:26> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\utils\executor.py", line 305, in start_polling
+    loop.run_until_complete(self._startup_polling())
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\asyncio\base_events.py", line 603, in run_until_complete
+    self.run_forever()
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\asyncio\base_events.py", line 570, in run_forever
+    self._run_once()
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\asyncio\base_events.py", line 1859, in _run_once
+    handle._run()
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "app.py", line 28, in periodic
+    pass
+KeyboardInterrupt
+INFO:aiogram:Bot: Fuckingcumm [@Fuckingcummbot]
+WARNING:aiogram:Goodbye!
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<periodic() done, defined at app.py:26> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\utils\executor.py", line 305, in start_polling
+    loop.run_until_complete(self._startup_polling())
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\asyncio\base_events.py", line 603, in run_until_complete
+    self.run_forever()
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\asyncio\base_events.py", line 570, in run_forever
+    self._run_once()
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\asyncio\base_events.py", line 1859, in _run_once
+    handle._run()
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "app.py", line 28, in periodic
+    pass
+KeyboardInterrupt
+INFO:aiogram:Bot: Fuckingcumm [@Fuckingcummbot]
+WARNING:aiogram:Goodbye!
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<periodic() done, defined at app.py:26> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\utils\executor.py", line 305, in start_polling
+    loop.run_until_complete(self._startup_polling())
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\asyncio\base_events.py", line 603, in run_until_complete
+    self.run_forever()
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\asyncio\windows_events.py", line 316, in run_forever
+    super().run_forever()
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\asyncio\base_events.py", line 570, in run_forever
+    self._run_once()
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\asyncio\base_events.py", line 1859, in _run_once
+    handle._run()
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "app.py", line 28, in periodic
+    pass
+KeyboardInterrupt
+INFO:aiogram:Bot: Fuckingcumm [@Fuckingcummbot]
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.contrib.middlewares.logging:Received message [ID:305] in chat [private:705853549]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791445]: [success] (in 1 ms)
+INFO:aiogram.contrib.middlewares.logging:Received channel post [ID:2] in channel [ID:-1001462827743]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791447]: [success] (in 1 ms)
+INFO:aiogram.contrib.middlewares.logging:Received channel post [ID:3] in channel [ID:-1001462827743]
+INFO:aiogram.contrib.middlewares.logging:Received message [ID:306] in chat [private:1198883635]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791449]: [success] (in 1 ms)
+INFO:aiogram.contrib.middlewares.logging:Received message [ID:309] in chat [private:1198883635]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791450]: [success] (in 1 ms)
+INFO:aiogram.contrib.middlewares.logging:Received message [ID:314] in chat [private:1198883635]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791451]: [success] (in 1 ms)
+INFO:aiogram.contrib.middlewares.logging:Received message [ID:315] in chat [private:705853549]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791452]: [success] (in 1 ms)
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Fuckingcumm [@Fuckingcummbot]
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.contrib.middlewares.logging:Received message [ID:318] in chat [private:705853549]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791453]: [success] (in 220 ms)
+INFO:aiogram:Bot: Fuckingcumm [@Fuckingcummbot]
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.contrib.middlewares.logging:Received message [ID:322] in chat [private:705853549]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791454]: [success] (in 186 ms)
+INFO:aiogram.contrib.middlewares.logging:Received message [ID:324] in chat [private:705853549]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791455]: [success] (in 232 ms)
+INFO:aiogram.contrib.middlewares.logging:Received message [ID:326] in chat [private:705853549]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791456]: [success] (in 195 ms)
+INFO:aiogram.contrib.middlewares.logging:Received message [ID:328] in chat [private:705853549]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791457]: [success] (in 185 ms)
+INFO:aiogram.contrib.middlewares.logging:Received message [ID:330] in chat [private:705853549]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791458]: [success] (in 209 ms)
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Fuckingcumm [@Fuckingcummbot]
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.contrib.middlewares.logging:Received message [ID:333] in chat [private:705853549]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791459]: [success] (in 273 ms)
+INFO:aiogram:Bot: Fuckingcumm [@Fuckingcummbot]
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.contrib.middlewares.logging:Received message [ID:337] in chat [private:705853549]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791460]: [success] (in 252 ms)
+INFO:aiogram.contrib.middlewares.logging:Received message [ID:340] in chat [private:705853549]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791461]: [success] (in 187 ms)
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Fuckingcumm [@Fuckingcummbot]
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.contrib.middlewares.logging:Received message [ID:344] in chat [private:705853549]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791462]: [success] (in 191 ms)
+INFO:aiogram.contrib.middlewares.logging:Received message [ID:346] in chat [private:705853549]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791463]: [success] (in 178 ms)
+INFO:aiogram.contrib.middlewares.logging:Received callback query [ID:3031617908909661082] from user [ID:705853549] for message [ID:347] in chat [private:705853549] originally posted by user [ID:1639360836]
+INFO:aiogram.contrib.middlewares.logging:Unhandled callback query [ID:3031617908909661082] from user [ID:705853549] for message [ID:347] in chat [private:705853549] originally posted by user [ID:1639360836]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791464]: [failed] (in 1 ms)
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-17' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\dispatcher\dispatcher.py:331> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 339, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 194, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\79961\Desktop\bots\Ratebot\handlers\users\purchase.py", line 30, in dislike
+    await message.answer("sosiska")
+NameError: name 'message' is not defined
+INFO:aiogram.contrib.middlewares.logging:Received callback query [ID:3031617910017746415] from user [ID:705853549] for message [ID:347] in chat [private:705853549] originally posted by user [ID:1639360836]
+INFO:aiogram.contrib.middlewares.logging:Unhandled callback query [ID:3031617910017746415] from user [ID:705853549] for message [ID:347] in chat [private:705853549] originally posted by user [ID:1639360836]
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-20' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\dispatcher\dispatcher.py:331> exception=NameError("name 'message' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 339, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 194, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\79961\Desktop\bots\Ratebot\handlers\users\purchase.py", line 30, in dislike
+    await message.answer("sosiska")
+NameError: name 'message' is not defined
+INFO:aiogram:Bot: Fuckingcumm [@Fuckingcummbot]
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.contrib.middlewares.logging:Received callback query [ID:3031617911162402627] from user [ID:705853549] for message [ID:347] in chat [private:705853549] originally posted by user [ID:1639360836]
+INFO:aiogram.contrib.middlewares.logging:Unhandled callback query [ID:3031617911162402627] from user [ID:705853549] for message [ID:347] in chat [private:705853549] originally posted by user [ID:1639360836]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791466]: [failed] (in 2 ms)
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-8' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\dispatcher\dispatcher.py:331> exception=AttributeError("'Bot' object has no attribute 'delete_messege'")>
+Traceback (most recent call last):
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 339, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 194, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_update
+    return await self.callback_query_handlers.notify(update.callback_query)
+  File "C:\Users\79961\AppData\Local\Programs\Python\Python38-32\lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\79961\Desktop\bots\Ratebot\handlers\users\purchase.py", line 30, in dislike
+    await bot.delete_messege(call.message, message_id=call.message.id)
+AttributeError: 'Bot' object has no attribute 'delete_messege'
+INFO:aiogram.contrib.middlewares.logging:Received message [ID:350] in chat [private:705853549]
+INFO:aiogram.contrib.middlewares.logging:Received message [ID:351] in chat [private:705853549]
+INFO:aiogram.contrib.middlewares.logging:Process update [ID:748791468]: [success] (in 1 ms)
